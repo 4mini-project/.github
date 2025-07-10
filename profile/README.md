@@ -8,7 +8,7 @@ AIVLE SCHOOL 6반 17조가 개발한 도서 관리 웹 애플리케이션입니�
 | 목적 | 도서 등록/수정/조회 및 AI 기반 커버 이미지 생성 |
 | 주요 기능 | 도서 CRUD, DALL·E 3 기반 이미지 생성, 사용자 키 입력 방식 |
 | 프론트엔드 | React + MUI (Vite 기반) |
-| 백엔드 | Express.js (or Spring Boot 등) |
+| 백엔드 | Spring Boot |
 | AI 연동 | OpenAI DALL·E API 사용 |
 ---
 ### 🧑‍🤝‍🧑 팀 구성
